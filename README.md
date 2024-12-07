@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ni, Fullstack developer, currently living in <b>Quy Nhon city</b>. </p>
+<p>Welcome to my page! </br> I'm Ni, Software Engineer, was born in <b>Quy Nhon city</b>. </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
